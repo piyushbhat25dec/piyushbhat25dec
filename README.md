@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ![logo](https://github.com/piyushbhat25dec/Piyush-Bhat/blob/main/laptop-half-closed-dark-with-colourful-glow-glasses-paper-cup_169016-33951.avif)
 <h1 align="center">Hi 👋, I'm Piyush Bhat</h1>
 <h3 align="center">A Passionate Computer Science Engineer</h3>
