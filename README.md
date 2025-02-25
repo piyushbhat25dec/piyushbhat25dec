@@ -1,6 +1,6 @@
 
 ![logo](https://github.com/piyushbhat25dec/Piyush-Bhat/blob/main/laptop-half-closed-dark-with-colourful-glow-glasses-paper-cup_169016-33951.avif)
-<h1 align="center">Hi 👋, I'm Piyush Bhat</h1>
+<h1 align="center">Hi 👋, I'm Piyush</h1>
 <h3 align="center">A Passionate Computer Science Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg">
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Python,SQL**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **piyushbhat25dec@gmail.com**
 
