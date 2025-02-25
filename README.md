@@ -1,5 +1,5 @@
 
-![logo](https://github.com/piyushbhat25dec/Piyush-Bhat/blob/main/laptop-half-closed-dark-with-colourful-glow-glasses-paper-cup_169016-33951.avif)
+![logo](https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/c_fill,q_auto:best,f_auto,e_unsharp_mask:80,w_828,h_400/Cyber%20Security%2Fadvanced-ai-cyber_mrggbm)
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 <h3 align="center">A Passionate Computer Science Engineer</h3>
 
